@@ -12,3 +12,5 @@ My first repository
 --
 A Term
 : Definition
+term
+: definition
