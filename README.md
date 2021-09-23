@@ -10,7 +10,7 @@ My first repository
 ---
 [My Website](https://github.com/kzawoyski)
 --
-A Term
+A Word
 : Definition
-term
-: definition
+--
+~~hello hello~~
