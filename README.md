@@ -9,3 +9,5 @@ My first repository
 `code`
 ---
 [My Website](https://github.com/kzawoyski)
+A Term
+: Definition
